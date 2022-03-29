@@ -1,0 +1,2 @@
+# 3in1-arduino-car
+My first project. The car is able to drive autonomously by using an ultrasonic sensor mounted on a servo motor, which allows it to "scan" ahead. The car works on 3 modes that can be changed using a bluetooth controller app. Obstacle avoidance mode, bluetooth mode and IR follow line. The code has been programmed for an arduino nano in mind, but should work on other models. PWM pins may vary. *Requires NewPing library for improved Ultrasonic sensor reading.
